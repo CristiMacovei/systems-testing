@@ -30,4 +30,4 @@ jobs:
     # Step 4: Run the tests!
     - name: Run pytest
       run: |
-        pytest -v
+        pytest laboratories/cicd-documentation -v
